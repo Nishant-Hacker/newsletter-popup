@@ -2,7 +2,7 @@
 ## Demo
 
 ![Newsletter  POP window Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Newsletter  POP window Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Newsletter  POP window Mobile Demo](./website-demo-image/mobile.PNG "Mobile Demo")
 
 ## Prerequisites
 
